@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.submit {
+  font-size: 30px;
+  margin: 100px;
+  height: 71px;
+  width: 151px;
+  border-top: solid red 4px;
+  border-right: dotted #5d00fe 10px;
+  border-bottom: double #3ca53c 15px;
+  border-left: inset #e46dda 10px;
+  box-shadow: -10px 0 0 0 #32002d;
+}
