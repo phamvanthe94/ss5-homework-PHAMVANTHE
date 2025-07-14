@@ -1,0 +1,150 @@
+/*T===== Bài tập 1 : fade-in =====T*/
+.fade-in {
+  width: 250px;
+  height: 150px;
+  background-color: black;
+  color: white;
+  margin-top: 20%;
+  margin-left: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  opacity: 0.3;
+  transition: opacity 0.5s ease;
+}
+
+.fade-in:active {
+  opacity: 0.8;
+}
+
+/*T===== Bài tập 2: change- =====T*/
+/* .change-Color {
+  width: 250px;
+  height: 150px;
+  background-color: black;
+  color: white;
+  margin-top: 20%;
+  margin-left: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  opacity: 0.3;
+  transition: opacity 0.5s ease;
+
+  font-weight: 800;
+}
+
+.change-Color:active {
+  opacity: 0.8;
+  background-color: rgb(50, 136, 241);
+} */
+
+/*T===== Bài tập 3: Grow =====T*/
+/* .grow {
+  background-color: #5c5764;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  font-weight: 800;
+  opacity: 0.7;
+  width: 250px;
+  height: 150px;
+}
+
+.grow:hover {
+  width: 100vw;
+  height: 100vh;
+} */
+
+/*T===== Bài tập 4:shrink =====T*/
+/* .shrink {
+  background-color: #5c5764;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  font-weight: 800;
+  opacity: 0.7;
+  width: 250px;
+  height: 150px;
+  transition: transform 0.5s ease;
+}
+
+.shrink:hover {
+  transform: scale(0.8);
+} */
+
+/*T===== Bài tập 5:rotate =====T*/
+/* .rotate {
+  background-color: #5c5764;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  font-weight: 800;
+  opacity: 0.7;
+  width: 250px;
+  height: 150px;
+  transition: transform 0.5s ease;
+}
+
+.rotate:hover {
+  transform: rotate(-45deg);
+} */
+
+/*T=====Bài tập6:Square to Circle =====T*/
+/* .square-to-Circle {
+  background-color: #5c5764;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  font-weight: 800;
+  opacity: 0.7;
+  width: 250px;
+  height: 150px;
+  transition: transform 0.5s ease;
+}
+
+.square-to-Circle:hover {
+  border-radius: 50%;
+} */
+
+/*T===== Bài tập 7:insert-border =====T*/
+/* .wrapper {
+  background-color: #42a5f5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  font-weight: 800;
+  opacity: 0.7;
+  width: 250px;
+  height: 150px;
+}
+
+.insert-border {
+  background-color: #5c5764;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  font-weight: 800;
+  opacity: 0.7;
+  width: 250px;
+  height: 150px;
+  box-sizing: border-box;
+  transition: transform 0.5s ease;
+}
+
+.insert-border:hover {
+  transform: scale(0.87, 0.8);
+} */
