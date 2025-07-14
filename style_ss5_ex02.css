@@ -1,0 +1,18 @@
+.hover {
+  margin-top: 40px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.child {
+  height: 20px;
+  width: 100%;
+  background-color: #c1c1c1;
+  padding: 15px;
+  color: white;
+  margin-bottom: 25px;
+  transition: background-color 1s ease;
+}
+
+.child:hover {
+  background-color: black;
+}
